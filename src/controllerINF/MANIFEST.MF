@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: /lib/robocode/libs/robocode.repository-1.9.2.6.jar lib/rob
+ ocode/libs/robocod e.ui.editor-1.9.2.6.jar lib/robocode/libs/robocode
+ .sound-1.9.2.6.jar lib/robocode/libs/robocode.battle-1. 9.2.6.jar lib
+ /robocode/libs/robocode.host-1.9.2.6.jar lib/robocode/libs/roborumble
+ .jar lib/robocode/libs/picocontainer-2.14 .2.jar lib/robocode/libs/ro
+ bocode.ui-1.9.2.6.jar lib/robocode/libs/robocode.core-1.9.2.6.jar lib
+ /robocode/libs/codesize-1.1 .jar lib/robocode/libs/robocode.jar
+Main-Class: uk.co.streefland.rhys.garobocode.Main
+

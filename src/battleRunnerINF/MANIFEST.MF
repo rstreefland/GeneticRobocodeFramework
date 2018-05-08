@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: robocode/libs/robocode.repository-1.9.2.6.jar robocode/libs/robocod
+ e.ui.editor-1.9.2.6.jar robocode/libs/robocode.sound-1.9.2.6.jar robocode/libs/robocode.battle-1.
+ 9.2.6.jar robocode/libs/robocode.host-1.9.2.6.jar robocode/libs/roborumble.jar robocode/libs/picocontainer-2.14
+ .2.jar robocode/libs/robocode.ui-1.9.2.6.jar robocode/libs/robocode.core-1.9.2.6.jar robocode/libs/codesize-1.1
+ .jar robocode/libs/robocode.jar
+Main-Class: uk.co.streefland.rhys.garobocode.battlerunner.BattleRunner
+
